@@ -1,4 +1,4 @@
-// app/(main)/blogs/[slug]/page.tsx
+
 import { getPostData, getAllPostSlugs } from "@/lib/markdown";
 import { Suspense } from "react";
 import Image from "next/image";

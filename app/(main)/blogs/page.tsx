@@ -1,4 +1,4 @@
-// app/(main)/blogs/page.tsx
+
 import { getSortedPostsData } from "@/lib/markdown";
 import BlogCard from "@/app/components/BlogCard";
 import { Suspense } from "react";

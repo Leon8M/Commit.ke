@@ -1,4 +1,4 @@
-// app/(main)/news/page.tsx
+
 import { getSortedPostsData } from "@/lib/markdown";
 import NewsCard from "@/app/components/NewsCard";
 import { Suspense } from "react";

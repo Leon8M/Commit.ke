@@ -1,4 +1,4 @@
-// app/components/SkeletonCard.tsx
+
 
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 

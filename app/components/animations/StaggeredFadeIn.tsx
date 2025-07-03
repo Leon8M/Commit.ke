@@ -1,4 +1,4 @@
-// app/components/animations/StaggeredFadeIn.tsx
+
 "use client";
 import { motion } from "framer-motion";
 
